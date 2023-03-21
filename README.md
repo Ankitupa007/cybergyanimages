@@ -1,5 +1,5 @@
-
-# Social Media App for Cyberscam Discussion 📱💻👥
+# CyberDost
+### Social Media App for Cyberscam Discussion 📱💻👥
 
 This is a social media app platform designed to facilitate discussion and information sharing related to various kinds of cyberscam. The purpose of this platform is to create a community where users can share their experiences, learn about new types of scams, and discuss ways to protect themselves from these scams.
 
